@@ -1,0 +1,32 @@
+import UIKit
+
+struct StringConstants {
+    static let k: String = ""
+    static let kMsg1: String =
+        "注：1、千卡含量为单位数量的食物所含的热量，例如：食物名\r称为鸡蛋计量单位为个，单位数量为2，千卡含量为140，则记\r录2个鸡蛋含有140千卡的热量。\r2、1千卡（kcal）=1大卡（kcal）=1000卡（cal）=4.184千焦\r（kJ）"
+    static let kLbl22: String = "请填写摄入数量，如2"
+    static let kLbl4: String = "请填入食物名称"
+    static let kLbl5: String = "计量单位"
+    static let kLbl2: String = "必填选项"
+    static let kLbl3: String = "食物名称"
+    static let kLbl20: String = "取消"
+    static let kLbl21: String = "保存"
+    static let kHttpFail: String = "HTTP request failed"
+    static let kUnableToFetch: String = "Unable to fetch data"
+    static let kLbl8: String = "单位数量"
+    static let kLbl9: String = "热量含量"
+    static let kLbl6: String = "请选择/填写单位"
+    static let kLbl7: String = "个"
+    static let kLbl10: String = "请填写食物热量"
+    static let kLbl11: String = "千卡"
+    static let kLbl: String = "自定义食物"
+    static let kLbl12: String = "选填选项"
+    static let kLbl13: String = "脂肪含量"
+    static let kLbl14: String = "请填写脂肪含量"
+    static let kInvalidUrl: String = "Invalid URL"
+    static let kLbl15: String = "克"
+    static let kLbl16: String = "碳水含量"
+    static let kLbl17: String = "请填写碳水含量"
+    static let kLbl18: String = "蛋白质含量"
+    static let kLbl19: String = "请填写蛋白质含量"
+}
